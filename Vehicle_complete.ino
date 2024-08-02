@@ -91,8 +91,6 @@ void setup() {
   pinMode(FC1,INPUT);
   pinMode(FC2,INPUT);
   pinMode(FC3,INPUT);
-  pinMode(FC4,INPUT);
-  pinMode(FC5,INPUT);
     //HC-SR04 Setup
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
